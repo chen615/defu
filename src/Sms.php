@@ -8,4 +8,8 @@ class Sms
     echo 'composer model';
   }
 
+  public function getMsg() {
+    echo 'get Msg';
+  }
+
 }
