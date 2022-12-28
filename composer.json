@@ -1,0 +1,17 @@
+{
+    "name": "chjp/defu",
+    "description": "一个Web工具",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Chjp\\Defu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chjp",
+            "email": "chjp_615@qq.com"
+        }
+    ],
+    "require": {}
+}
